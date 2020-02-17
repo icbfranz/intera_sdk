@@ -1,6 +1,6 @@
 Intera SDK
 ==============
-
+[![Run on Repl.it](https://repl.it/badge/github/icbfranz/intera_sdk)](https://repl.it/github/icbfranz/intera_sdk)
 The Intera SDK provides a platform for development of custom applications for Intera Robots.
 
 This repository contains metapackages and files for installation/use of the Intera SDK.
